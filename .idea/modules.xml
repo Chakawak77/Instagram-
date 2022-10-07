@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Instagram-master/Instagram.iml" filepath="$PROJECT_DIR$/Instagram-master/Instagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Instagram-master.iml" filepath="$PROJECT_DIR$/.idea/Instagram-master.iml" />
+    </modules>
+  </component>
+</project>
